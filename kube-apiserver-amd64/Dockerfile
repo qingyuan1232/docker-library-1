@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:v1.9.0
-MAINTAINER mritd <mritd@mritd.me>
+FROM k8s.gcr.io/kube-apiserver:v1.13.4
+MAINTAINER zqy <zqy@zqy.me>
